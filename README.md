@@ -8,10 +8,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ben_mrad_bilel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ben_mrad_bilel" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/benmrad-bilel-a3a01122a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/benmrad-bilel-a3a01122a/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/bolbol.bm.31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/bolbol.bm.31" height="30" width="40" /></a>
-<a href="https://medium.com/@https://medium.com/@bilelbenmrad2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@https://medium.com/@bilelbenmrad2001" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc578bnfwa7u1-nnzifs2_bq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc578bnfwa7u1-nnzifs2_bq" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/benmrad-bilel-a3a01122a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benmrad-bilel-a3a01122a" height="30" width="40" /></a>
+<a href="https://fb.com/bolbol.bm.31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bolbol.bm.31" height="30" width="40" /></a>
+<a href="https://medium.com/@bilelbenmrad2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bilelbenmrad2001" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/uc578bnfwa7u1-nnzifs2_bq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc578bnfwa7u1-nnzifs2_bq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
