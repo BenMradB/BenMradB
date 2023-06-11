@@ -1,16 +1,10 @@
 <h1 align="center">Hi 👋, I'm Benmrad Bilel</h1>
 <h3 align="center">A Passioante FullStack Developer And Software Engineering student</h3>
 
-<div width="100%">
-    <div align="left">
-    - 🌱 I’m currently learning **NextJS**
-    - 📫 How to reach me **bilelbenmrad2001@gmail.com**
-  </div>
+
   <div align="right"> 
     <img width="400" height="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="coding"/> 
   </div>
-
-</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benmradb&label=Profile%20views&color=0e75b6&style=flat" alt="benmradb" /> </p>
 
@@ -31,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=benmradb&show_icons=true&theme=tokyonight&locale=en" alt="benmradb" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=benmradb&theme=dark" alt="benmradb" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=benmradb&theme=tokyonight" alt="benmradb" /></p>
