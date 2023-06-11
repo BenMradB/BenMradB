@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Benmrad Bilel</h1>
 <h3 align="center">A Passioante FullStack Developer And Software Engineering student</h3>
 
-<div style="">
+<div>
     <div>
     - 🌱 I’m currently learning **NextJS**
     - 📫 How to reach me **bilelbenmrad2001@gmail.com**
