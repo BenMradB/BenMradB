@@ -4,7 +4,7 @@
 
 
   <div align="center"> 
-    <img width="800" height="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="coding"/> 
+    <img width="1000" height="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="coding"/> 
   </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benmradb&label=Profile%20views&color=0e75b6&style=flat" alt="benmradb" /> </p>
