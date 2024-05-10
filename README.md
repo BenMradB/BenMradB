@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="205" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdevelopers.giphy.com%2Fbranch%2Fmaster%2Fstatic%2Fapi-c99e353f761d318322c853c03ebcf21b.gif&f=1&nofb=1&ipt=a99be3092a16eb3e0eeb7188cfd8fbc0cfcc9825dd80ca50871a985ab2a9c13f&ipo=images"  />
+  <img height="205" width="800" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdevelopers.giphy.com%2Fbranch%2Fmaster%2Fstatic%2Fapi-c99e353f761d318322c853c03ebcf21b.gif&f=1&nofb=1&ipt=a99be3092a16eb3e0eeb7188cfd8fbc0cfcc9825dd80ca50871a985ab2a9c13f&ipo=images"  />
 </div>
 
 ###
