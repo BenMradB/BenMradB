@@ -65,9 +65,7 @@
 
 <h3 align="left">BenMrad Bilel's Stats</h3>
 
-
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=benmradb&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="benmradb" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=benmradb&show_icons=true&theme=github_dark&locale=en" alt="benmradb" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=benmradb&theme=react" alt="benmradb" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=benmradb&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="benmradb" /></p>
 
