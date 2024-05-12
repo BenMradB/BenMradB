@@ -64,9 +64,9 @@
 </div>
 
 <h3 align="left">Most Used Languages:</h3>
-<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=benmradb&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="benmradb" /></div>
+<div align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=benmradb&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="benmradb" /></div>
 <h3 align="left">Benmrad Bilel's Stats:</h3>
-<div>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=benmradb&show_icons=true&theme=github_dark&locale=en" alt="benmradb" /></div>
+<div align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=benmradb&show_icons=true&theme=github_dark&locale=en" alt="benmradb" /></div>
 
 <div><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=benmradb&theme=react" alt="benmradb" /></div>
 
