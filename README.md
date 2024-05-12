@@ -9,9 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benmradb&label=Profile%20views&color=0e75b6&style=flat" alt="benmradb" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=benmradb" alt="benmradb" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🔗 Be In Touch With Me On </h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/benmrad-bilel-a3a01122a/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
