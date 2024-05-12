@@ -64,7 +64,7 @@
 </div>
 
 <h1 align="left">Most Used Languages:</h1>
-<img align="left" style="display: block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=benmradb&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="benmradb" />
+<img style="display: block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=benmradb&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="benmradb" />
 <h1 align="left"   style="display: block;">Benmrad Bilel's Stats:</h1>
-<img align="left" style="display: block;" src="https://github-readme-stats.vercel.app/api?username=benmradb&show_icons=true&theme=github_dark&locale=en" alt="benmradb" />
+<img  style="display: block;" src="https://github-readme-stats.vercel.app/api?username=benmradb&show_icons=true&theme=github_dark&locale=en" alt="benmradb" />
 
