@@ -68,3 +68,6 @@
 <h1 align="left"   style="display: block;">Benmrad Bilel's Stats:</h1>
 <img  style="display: block;" src="https://github-readme-stats.vercel.app/api?username=benmradb&show_icons=true&theme=github_dark&locale=en" alt="benmradb" />
 
+<h1 align="left"  style="display: block;">Benmrad Bilel's Stats:</h1>
+<img  style="display: block;" src="https://github-readme-streak-stats.herokuapp.com/?user=benmradb&theme=react" alt="benmradb" />
+
