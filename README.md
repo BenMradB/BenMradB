@@ -63,10 +63,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
-<h3 align="left">Most Used Languages:</h3>
+<h1 align="left">Most Used Languages:</h1>
 <div align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=benmradb&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="benmradb" /></div>
-<h3 align="left">Benmrad Bilel's Stats:</h3>
+<h1 align="left">Benmrad Bilel's Stats:</h1>
 <div align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=benmradb&show_icons=true&theme=github_dark&locale=en" alt="benmradb" /></div>
-
-<div><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=benmradb&theme=react" alt="benmradb" /></div>
+<h1 align="left">Benmrad Bilel's Stats:</h1>
+<div align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=benmradb&theme=react" alt="benmradb" /></div>
 
