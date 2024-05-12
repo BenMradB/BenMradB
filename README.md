@@ -12,13 +12,13 @@
 <h1 align="left">🔗 Be In Touch With Me On </h1>
 <div align="left">
   <a href="https://www.linkedin.com/in/benmrad-bilel-a3a01122a/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="28" alt="linkedin logo"  />
   </a>
   <a href="https://www.youtube.com/channel/UC578BNFWa7U1-NnZIfS2_BQ" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="45" height="28" alt="youtube logo"  />
   </a>
   <a href="https://medium.com/@bilelbenmrad2001" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="45" height="28" alt="medium logo"  />
   </a>
 </div>
 
