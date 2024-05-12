@@ -65,8 +65,7 @@
 <p > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=benmradb" alt="benmradb" /></a> </p>
 
 <h1 align="left"   style="display: block;">💹 Benmrad Bilel's Stats</h1>
-
-<img style="display: block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=benmradb&show_icons=true&theme=dracula&locale=en&layout=compact](https://github-readme-stats.vercel.app/api?username=BenMradB&theme=dracula&show_icons=true&hide_border=false&count_private=true" alt="benmradb" />
+<img style="display: block;" src="https://github-readme-stats.vercel.app/api?username=benmradb)](https://github.com/anuraghazra/github-readme-stats" alt="benmradb" />
 <h1 align="left">⚙ Most Used Languages</h1>
 <img style="display: block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=benmradb&show_icons=true&theme=dracula&locale=en&layout=compact" alt="benmradb" />
 <h1 align="left"  style="display: block;">🧮 Github Contributions</h1>
