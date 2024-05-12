@@ -62,7 +62,7 @@
 </div>
 
 <h1 align="left"   style="display: block;">🏆 Trophies </h1>
-<p > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=benmradb&theme=dracula" width="500" alt="benmradb" /></a> </p>
+<p > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=benmradb&theme=dracula" width="1000" alt="benmradb" /></a> </p>
 
 <h1 align="left"   style="display: block;">💹 Benmrad Bilel's Stats</h1>
 <img style="display: block;" src="https://github-readme-stats.vercel.app/api?username=benmradb&show_icons=true&theme=dracula&locale=en&layout=compact" alt="benmradb" />
